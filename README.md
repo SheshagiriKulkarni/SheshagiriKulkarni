@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar3060&label=Profile%20views&color=0e75b6&style=flat" alt="omkar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SheshagiriKulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="omkar" /> </p>
 
 <h2 align="left">Skills</h2>
 
